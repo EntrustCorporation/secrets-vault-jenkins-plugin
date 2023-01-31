@@ -52,7 +52,7 @@ Command to add CA Certificate in java keystore:
 
         WARNING: If after adding if still getting sll certificate error try to restart server. 
 
-## Install KeyContol Secrets Vault Plugin
+## Install KeyControl Secrets Vault Plugin
 
 Step1: Navigate to the Jenkins Dashboard and select **Manage Jenkins**.
 
