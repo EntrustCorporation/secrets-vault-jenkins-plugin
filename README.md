@@ -20,7 +20,7 @@ variable, for use in builds.
 4) Secret Name :- name of the secret that needs to be fetched
 
 5) Vault URL :- Login API URL of vault.The correct format for the API URL should be as follows:- `https://<IP>/vault/1.0/Login/<UUID>/`.Please refer below link to obtain
-   [How to get vault Login API URL ?](https://docs.hytrust.com/KeyControlVault/Online/Content/Books/Admin-Guide/Vault-Management/Retrieving-Vault-Details.html)
+   [How to get vault Login API URL ?](https://docs.hytrust.com/KeyControlVault/Online/Content/Books/Admin-Guide/Vault-Management/Viewing-Vault-Details.html)
 
 6) Vault Credentials :- Username and password of PASM vault.
 
